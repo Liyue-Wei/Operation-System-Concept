@@ -1,5 +1,4 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/1200px-Vmware_workstation_16_icon.svg.png" width="35px" alt="VM"> VMware Workstation performance issue 
-
 ###### tags: `VMware` `Virtualization` `Solution`
 
 Solutions for VMware virtualization performance issues on Hybrid Architecture (big.LITTLE) CPUs.
