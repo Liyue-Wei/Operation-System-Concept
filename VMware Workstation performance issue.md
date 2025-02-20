@@ -7,9 +7,9 @@ Solutions for VMware virtualization performance issues on Hybrid Architecture (b
 ## Socpe of Application 
 ### 1. Hardware - CPUs with Hybrid Architecture Design
 *   Intel Core i series CPUs (12th generation and later)  <sub>**(e.g., Intel Core i5-12500H)**</sub>
-*   Intel Core Ultra CPUs <sub>**(e.g., Intel Core Ultra 7 Processor 265K)**</sub>
-*   Intel Core series CPUs <sub>**(e.g., Intel Core 3 Processor 100U)**</sub>
-*   AMD Ryzen AI 300 Series CPUs <sub>**(e.g., AMD Ryzen AI 9 HX 370)**</sub> *(Limited testing)*
+*   Intel Core Ultra CPUs <sub>**(e.g. Intel Core Ultra 7 Processor 265K)**</sub>
+*   Intel Core series CPUs <sub>**(e.g. Intel Core 3 Processor 100U)**</sub>
+*   AMD Ryzen AI 300 Series CPUs <sub>**(e.g. AMD Ryzen AI 9 HX 370)**</sub> *(Limited testing)*
 
 
 ### 2. Software
