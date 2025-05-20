@@ -1,0 +1,10 @@
+C:\Users\eric2\Desktop\Operation-System-Concept\Interruption_Expt\Interruption_Expt\obj\Debug\Interruption_Expt.csproj.AssemblyReference.cache
+C:\Users\eric2\Desktop\Operation-System-Concept\Interruption_Expt\Interruption_Expt\obj\Debug\Interruption_Expt.Form1.resources
+C:\Users\eric2\Desktop\Operation-System-Concept\Interruption_Expt\Interruption_Expt\obj\Debug\Interruption_Expt.Properties.Resources.resources
+C:\Users\eric2\Desktop\Operation-System-Concept\Interruption_Expt\Interruption_Expt\obj\Debug\Interruption_Expt.csproj.GenerateResource.cache
+C:\Users\eric2\Desktop\Operation-System-Concept\Interruption_Expt\Interruption_Expt\obj\Debug\Interruption_Expt.csproj.CoreCompileInputs.cache
+C:\Users\eric2\Desktop\Operation-System-Concept\Interruption_Expt\Interruption_Expt\bin\Debug\Interruption_Expt.exe.config
+C:\Users\eric2\Desktop\Operation-System-Concept\Interruption_Expt\Interruption_Expt\bin\Debug\Interruption_Expt.exe
+C:\Users\eric2\Desktop\Operation-System-Concept\Interruption_Expt\Interruption_Expt\bin\Debug\Interruption_Expt.pdb
+C:\Users\eric2\Desktop\Operation-System-Concept\Interruption_Expt\Interruption_Expt\obj\Debug\Interruption_Expt.exe
+C:\Users\eric2\Desktop\Operation-System-Concept\Interruption_Expt\Interruption_Expt\obj\Debug\Interruption_Expt.pdb
